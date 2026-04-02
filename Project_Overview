@@ -1,5 +1,22 @@
+The MedCloudData GRC Project is a simulated real-world cybersecurity initiative that focuses on conducting a Governance, Risk, and Compliance (GRC) assessment for
+a cloud-based healthcare data management system. The project aims to identify, assess, and reduce security risks related to managing sensitive patient data in a 
+cloud setting.
+The project's scope includes identifying assets, assessing risks, treating risks, and mapping compliance using well-known frameworks like ISO/IEC 27001:2022. 
+I analyzed key assets, including patient databases, cloud infrastructure, developer systems, and user access controls, to find potential threats and weaknesses. 
+Based on the identified risks, we recommended suitable security controls and mapped them to relevant ISO 27001 Annex A controls. 
+The result of this project is a clear GRC implementation approach that helps ensure data confidentiality, integrity, availability, and regulatory compliance while 
+lowering business and security risks in a healthcare cloud environment.
+
+Objectives:
+- Identify risks
+- Apply ISO 27001
+- Ensure compliance
+
+
+COMPANY DETAILS:
+
 Company Name
-MedDataCloud Pvt. Ltd.
+MedDataCloud Pvt. Ltd. (fictional healthcare org)
 
 Business Type
 SaaS company providing a cloud-based healthcare data management platform.
@@ -36,7 +53,7 @@ Customers are located in:
 🎯 Compliance Goals
 
 The company wants:
-1️⃣ ISO 27001 Certification
+- ISO 27001 Certification
 
 Reason:
 - Enterprise clients require it
