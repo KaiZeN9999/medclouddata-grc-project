@@ -1,0 +1,152 @@
+Company Name
+MedDataCloud Pvt. Ltd.
+
+Business Type
+SaaS company providing a cloud-based healthcare data management platform.
+
+The platform helps hospitals to:
+- Store patient medical records
+- Manage appointments
+- Process insurance data
+- Share reports with doctors
+
+Headquarters
+Ahmedabad, India
+
+Company Size
+- Employees: 120
+- Developers: 45
+- IT/Security Team: 6
+- DevOps Team: 8
+- HR/Operations: 15
+- Sales & Support: Remaining staff
+
+Customers
+Primary customers:
+- Private hospitals
+- Diagnostic labs
+- Telemedicine providers
+
+Customers are located in:
+- India
+- UAE
+- Singapore
+- United States
+
+🎯 Compliance Goals
+
+The company wants:
+1️⃣ ISO 27001 Certification
+
+Reason:
+- Enterprise clients require it
+- Investors demand security maturity
+- Enter the US healthcare SaaS market
+
+💻 Technology Stack
+Cloud Infrastructure
+
+Primary cloud provider:
+- AWS
+
+Services used:
+- EC2 (Application servers)
+- RDS (PostgreSQL database)
+- S3 (file storage for medical reports)
+- CloudFront (content delivery)
+- IAM (identity access management)
+- Application Architecture
+
+System components:
+- Web application
+- Backend API
+- Mobile application
+- Database
+- File storage
+- Authentication
+
+Current system:
+- Username/password login
+- MFA is optional for admins
+- No SSO yet
+- Logging & Monitoring
+
+Tools used:
+- AWS CloudTrail
+- Basic application logs
+- No centralized SIEM yet
+- Endpoint Environment
+
+Employee devices:
+- Company laptops
+- Windows & macOS
+
+Security controls:
+- Antivirus installed
+- Disk encryption enabled
+- No centralized device management
+
+📊 Data Processed
+Sensitive information stored:
+- Patient health records
+- Personal identification details
+- Medical reports
+- Insurance details
+- Appointment history
+
+Data classification not formally defined yet.
+
+🔐 Current Security Controls
+
+Password policy:
+- Minimum 8 characters
+- Password changes every 180 days
+
+Access management:
+- Developers have admin access in staging
+- DevOps team has production access
+- No formal quarterly access review
+
+Backups:
+- Automated AWS RDS daily backups
+- No restore testing performed
+
+Incident response:
+- Informal Slack reporting
+- No formal IR procedure
+
+Vendor management:
+- Vendors used: AWS, Stripe, SendGrid
+- No formal vendor risk assessment
+
+🚨 Known Security Issues
+Recent internal review identified:
+1️⃣ S3 bucket misconfiguration risk
+2️⃣ No centralized log monitoring
+3️⃣ Lack of vulnerability scanning
+4️⃣ No formal access review process
+5️⃣ No vendor risk management program
+6️⃣ No documented disaster recovery plan
+7️⃣ No formal asset inventory
+
+👥 Key Roles in Organization
+- CEO
+- CTO
+- DevOps Manager
+- Security Engineer
+- HR Manager
+- Product Manager
+
+📜 Existing Policies (Basic)
+
+The company currently has:
+- Basic password policy
+- Acceptable use policy
+- Data privacy policy (for customers)
+
+But missing:
+- Access control policy
+- Incident response policy
+- Vendor security policy
+- Backup policy
+- Risk management policy
